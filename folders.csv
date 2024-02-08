@@ -1,0 +1,710 @@
+type,name,size
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08,10244518
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv,9998297
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Scripts,1948600
+file,wheel3.exe,106429
+file,wheel3.9.exe,106429
+file,wheel.exe,106429
+file,wheel-3.9.exe,106429
+file,pythonw.exe,542440
+file,python.exe,543464
+file,pydoc.bat,24
+file,pip3.exe,106442
+file,pip3.9.exe,106442
+file,pip.exe,106442
+file,pip-3.9.exe,106442
+file,deactivate.bat,510
+file,activate_this.py,1193
+file,activate.xsh,1244
+file,activate.ps1,1755
+file,activate.fish,3153
+file,activate.bat,1103
+file,activate,2230
+file,pyvenv.cfg,292
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib,8049363
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages,8049363
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\__pycache__,4133
+file,_virtualenv.cpython-39.pyc,4133
+file,_virtualenv.py,5792
+file,_virtualenv.pth,18
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\_distutils_hack,3732
+file,__init__.py,3688
+file,override.py,44
+file,wheel-0.36.2.virtualenv,0
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\wheel-0.36.2.dist-info,6270
+file,WHEEL,110
+file,top_level.txt,6
+file,RECORD,2639
+file,METADATA,2277
+file,LICENSE.txt,1125
+file,INSTALLER,5
+file,entry_points.txt,108
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\wheel,96021
+file,__main__.py,417
+file,__init__.py,23
+file,wheelfile.py,7336
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\wheel\vendored,30749
+file,__init__.py,0
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\wheel\vendored\packaging,30749
+file,__init__.py,0
+file,_typing.py,1812
+file,tags.py,28937
+file,util.py,938
+file,pkginfo.py,1257
+file,metadata.py,4344
+file,macosx_libfile.py,15931
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\wheel\cli,15951
+file,__init__.py,2572
+file,unpack.py,673
+file,pack.py,3208
+file,convert.py,9498
+file,bdist_wheel.py,19075
+file,setuptools-57.0.0.virtualenv,0
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\setuptools-57.0.0.dist-info,31104
+file,WHEEL,92
+file,top_level.txt,41
+file,RECORD,21856
+file,METADATA,4952
+file,LICENSE,1050
+file,INSTALLER,5
+file,entry_points.txt,2869
+file,dependency_links.txt,239
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\setuptools,2013431
+file,__init__.py,7681
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\setuptools\_vendor,475470
+file,__init__.py,0
+file,pyparsing.py,232056
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\setuptools\_vendor\packaging,93978
+file,__init__.py,562
+file,__about__.py,736
+file,_typing.py,1812
+file,_structures.py,2022
+file,_compat.py,1128
+file,version.py,15470
+file,utils.py,1811
+file,tags.py,24067
+file,specifiers.py,31944
+file,requirements.py,4917
+file,markers.py,9509
+file,ordered_set.py,15130
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\setuptools\_vendor\more_itertools,134306
+file,__init__.py,82
+file,recipes.py,16256
+file,more.py,117968
+file,_imp.py,2392
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\setuptools\_distutils,661913
+file,__init__.py,250
+file,_msvccompiler.py,20813
+file,versionpredicate.py,5133
+file,version.py,12514
+file,util.py,20985
+file,unixccompiler.py,14696
+file,text_file.py,12483
+file,sysconfig.py,21349
+file,spawn.py,4691
+file,py38compat.py,212
+file,py35compat.py,455
+file,msvccompiler.py,23540
+file,msvc9compiler.py,30453
+file,log.py,1969
+file,file_util.py,8148
+file,filelist.py,12832
+file,fancy_getopt.py,17784
+file,extension.py,10515
+file,errors.py,3577
+file,dist.py,50421
+file,dir_util.py,7778
+file,dep_util.py,3491
+file,debug.py,139
+file,cygwinccompiler.py,16380
+file,core.py,8876
+file,config.py,4827
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\setuptools\_distutils\command,258450
+file,__init__.py,799
+file,upload.py,7597
+file,sdist.py,19005
+file,register.py,11712
+file,py37compat.py,671
+file,install_scripts.py,2017
+file,install_lib.py,8397
+file,install_headers.py,1298
+file,install_egg_info.py,2603
+file,install_data.py,2822
+file,install.py,27482
+file,config.py,13117
+file,clean.py,2776
+file,check.py,5637
+file,build_scripts.py,6232
+file,build_py.py,17190
+file,build_ext.py,31685
+file,build_clib.py,8022
+file,build.py,5767
+file,bdist_wininst.py,16030
+file,bdist_rpm.py,21537
+file,bdist_msi.py,35579
+file,bdist_dumb.py,4913
+file,bdist.py,5562
+file,cmd.py,18079
+file,ccompiler.py,47607
+file,bcppcompiler.py,14894
+file,archive_util.py,8572
+file,_deprecation_warning.py,218
+file,windows_support.py,714
+file,wheel.py,8288
+file,version.py,144
+file,unicode_utils.py,941
+file,ssl_support.py,8565
+file,script.tmpl,138
+file,script (dev).tmpl,218
+file,sandbox.py,14151
+file,py34compat.py,245
+file,package_index.py,40173
+file,namespaces.py,3093
+file,msvc.py,50561
+file,monkey.py,5217
+file,lib2to3_ex.py,2335
+file,launch.py,812
+file,installer.py,3567
+file,gui.exe,65536
+file,gui-64.exe,75264
+file,gui-32.exe,65536
+file,glob.py,4873
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\setuptools\extern,2407
+file,__init__.py,2407
+file,extension.py,1684
+file,errors.py,524
+file,dist.py,42374
+file,dep_util.py,949
+file,depends.py,5474
+file,config.py,22279
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\setuptools\command,216514
+file,__init__.py,217
+file,upload_docs.py,7218
+file,upload.py,462
+file,test.py,9490
+file,setopt.py,5051
+file,sdist.py,5967
+file,saveopts.py,658
+file,rotate.py,2128
+file,register.py,468
+file,py36compat.py,4946
+file,launcher manifest.xml,628
+file,install_scripts.py,2593
+file,install_lib.py,3875
+file,install_egg_info.py,2203
+file,install.py,4705
+file,egg_info.py,25335
+file,easy_install.py,85308
+file,dist_info.py,960
+file,develop.py,8045
+file,build_py.py,8930
+file,build_ext.py,13027
+file,build_clib.py,4415
+file,bdist_rpm.py,900
+file,bdist_egg.py,16604
+file,alias.py,2381
+file,cli.exe,65536
+file,cli-64.exe,74752
+file,cli-32.exe,65536
+file,build_meta.py,10280
+file,archive_util.py,7077
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pkg_resources,461424
+file,__init__.py,108202
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pkg_resources\_vendor,350756
+file,__init__.py,0
+file,pyparsing.py,232056
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pkg_resources\_vendor\packaging,93999
+file,__init__.py,562
+file,__about__.py,736
+file,_typing.py,1812
+file,_structures.py,2022
+file,_compat.py,1128
+file,version.py,15470
+file,utils.py,1811
+file,tags.py,24067
+file,specifiers.py,31944
+file,requirements.py,4929
+file,markers.py,9518
+file,appdirs.py,24701
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pkg_resources\tests,104
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pkg_resources\tests\data,104
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pkg_resources\tests\data\my-test-package-source,104
+file,setup.py,104
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pkg_resources\extern,2362
+file,__init__.py,2362
+file,pip-21.1.2.virtualenv,0
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip-21.1.2.dist-info,63641
+file,WHEEL,92
+file,top_level.txt,4
+file,RECORD,58222
+file,METADATA,4103
+file,LICENSE.txt,1090
+file,INSTALLER,5
+file,entry_points.txt,125
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip,5363645
+file,__main__.py,1198
+file,__init__.py,368
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor,4438342
+file,__init__.py,4760
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\webencodings,31733
+file,__init__.py,10579
+file,x_user_defined.py,4307
+file,tests.py,6563
+file,mklabels.py,1305
+file,labels.py,8979
+file,vendor.txt,364
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\urllib3,378914
+file,__init__.py,2763
+file,_version.py,63
+file,_collections.py,10811
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\urllib3\util,89809
+file,__init__.py,1155
+file,wait.py,5404
+file,url.py,13981
+file,timeout.py,10003
+file,ssl_.py,16281
+file,ssltransport.py,6932
+file,retry.py,21396
+file,response.py,3510
+file,request.py,4123
+file,queue.py,498
+file,proxy.py,1604
+file,connection.py,4922
+file,response.py,28203
+file,request.py,5985
+file,poolmanager.py,19763
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\urllib3\packages,40497
+file,__init__.py,108
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\urllib3\packages\ssl_match_hostname,6436
+file,__init__.py,757
+file,_implementation.py,5679
+file,six.py,32536
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\urllib3\packages\backports,1417
+file,__init__.py,0
+file,makefile.py,1417
+file,filepost.py,2440
+file,fields.py,8579
+file,exceptions.py,8217
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\urllib3\contrib,105903
+file,__init__.py,0
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport,31557
+file,__init__.py,0
+file,low_level.py,13908
+file,bindings.py,17649
+file,_appengine_environ.py,957
+file,socks.py,7097
+file,securetransport.py,34303
+file,pyopenssl.py,16795
+file,ntlmpool.py,4160
+file,appengine.py,11034
+file,connectionpool.py,37133
+file,connection.py,18748
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\toml,50744
+file,__init__.py,747
+file,tz.py,701
+file,ordered.py,378
+file,encoder.py,9964
+file,decoder.py,38954
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\tenacity,45824
+file,__init__.py,16528
+file,_utils.py,4555
+file,_asyncio.py,2833
+file,wait.py,6017
+file,tornadoweb.py,1729
+file,stop.py,2435
+file,retry.py,5463
+file,nap.py,1280
+file,compat.py,739
+file,before_sleep.py,1784
+file,before.py,1154
+file,after.py,1307
+file,six.py,34159
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\resolvelib,29482
+file,__init__.py,537
+file,structs.py,4495
+file,resolvers.py,17292
+file,reporters.py,1364
+file,providers.py,5638
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\resolvelib\compat,156
+file,__init__.py,0
+file,collections_abc.py,156
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\requests,175621
+file,__version__.py,441
+file,__init__.py,4458
+file,_internal_utils.py,1096
+file,utils.py,30529
+file,structures.py,3005
+file,status_codes.py,4188
+file,sessions.py,30137
+file,packages.py,695
+file,models.py,34373
+file,hooks.py,757
+file,help.py,3578
+file,exceptions.py,3173
+file,cookies.py,18430
+file,compat.py,2045
+file,certs.py,465
+file,auth.py,10207
+file,api.py,6496
+file,adapters.py,21548
+file,pyparsing.py,273394
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\progress,10463
+file,__init__.py,4857
+file,spinner.py,1380
+file,counter.py,1372
+file,bar.py,2854
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\pkg_resources,108839
+file,__init__.py,108277
+file,py31compat.py,562
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\pep517,44224
+file,__init__.py,130
+file,wrappers.py,11044
+file,meta.py,2463
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\pep517\in_process,9001
+file,__init__.py,563
+file,_in_process.py,8438
+file,envbuild.py,6041
+file,dirtools.py,1129
+file,compat.py,780
+file,colorlog.py,4098
+file,check.py,6082
+file,build.py,3456
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\packaging,102972
+file,__init__.py,562
+file,__about__.py,726
+file,_typing.py,1824
+file,_structures.py,2022
+file,_compat.py,1128
+file,version.py,15974
+file,utils.py,4385
+file,tags.py,29561
+file,specifiers.py,32208
+file,requirements.py,5110
+file,markers.py,9472
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\msgpack,46333
+file,__init__.py,1118
+file,_version.py,20
+file,fallback.py,38026
+file,ext.py,6088
+file,exceptions.py,1081
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\idna,255510
+file,__init__.py,58
+file,uts46data.py,196224
+file,package_data.py,21
+file,intranges.py,1749
+file,idnadata.py,42350
+file,core.py,11849
+file,compat.py,232
+file,codec.py,3027
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\html5lib,484689
+file,__init__.py,1160
+file,_utils.py,4931
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\html5lib\_trie,2897
+file,__init__.py,109
+file,_base.py,1013
+file,py.py,1775
+file,_tokenizer.py,77040
+file,_inputstream.py,32353
+file,_ihatexml.py,16728
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\html5lib\treewalkers,27825
+file,__init__.py,5719
+file,genshi.py,2309
+file,etree_lxml.py,6357
+file,etree.py,4551
+file,dom.py,1413
+file,base.py,7476
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\html5lib\treebuilders,54684
+file,__init__.py,3592
+file,etree_lxml.py,14766
+file,etree.py,12836
+file,dom.py,8925
+file,base.py,14565
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\html5lib\treeadapters,4170
+file,__init__.py,679
+file,sax.py,1776
+file,genshi.py,1715
+file,serializer.py,15759
+file,html5parser.py,117186
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\html5lib\filters,46492
+file,__init__.py,0
+file,whitespace.py,1214
+file,sanitizer.py,26897
+file,optionaltags.py,10588
+file,lint.py,3643
+file,inject_meta_charset.py,2945
+file,base.py,286
+file,alphabeticalattributes.py,919
+file,constants.py,83464
+file,distro.py,43628
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\distlib,918455
+file,__init__.py,581
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\distlib\_backport,149051
+file,__init__.py,274
+file,tarfile.py,92628
+file,sysconfig.py,26854
+file,sysconfig.cfg,2617
+file,shutil.py,25707
+file,misc.py,971
+file,wheel.py,41144
+file,w64.exe,99840
+file,w32.exe,90112
+file,version.py,23391
+file,util.py,59845
+file,t64.exe,105984
+file,t32.exe,96768
+file,scripts.py,17180
+file,resources.py,10766
+file,metadata.py,38962
+file,markers.py,4387
+file,manifest.py,14811
+file,locators.py,52100
+file,index.py,21066
+file,database.py,51059
+file,compat.py,41408
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\colorama,27035
+file,__init__.py,239
+file,winterm.py,6438
+file,win32.py,5404
+file,initialise.py,1915
+file,ansitowin32.py,10517
+file,ansi.py,2522
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\chardet,1036754
+file,__init__.py,3271
+file,version.py,242
+file,utf8prober.py,2766
+file,universaldetector.py,12503
+file,sjisprober.py,3774
+file,sbcsgroupprober.py,4309
+file,sbcharsetprober.py,6136
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\chardet\metadata,19474
+file,__init__.py,0
+file,languages.py,19474
+file,mbcssm.py,25481
+file,mbcsgroupprober.py,2012
+file,mbcharsetprober.py,3413
+file,latin1prober.py,5370
+file,langturkishmodel.py,95946
+file,langthaimodel.py,103312
+file,langrussianmodel.py,131180
+file,langhungarianmodel.py,102498
+file,langhebrewmodel.py,98776
+file,langgreekmodel.py,99571
+file,langbulgarianmodel.py,105697
+file,jpcntx.py,19643
+file,jisfreq.py,25777
+file,hebrewprober.py,13838
+file,gb2312prober.py,1754
+file,gb2312freq.py,20715
+file,euctwprober.py,1747
+file,euctwfreq.py,31621
+file,euckrprober.py,1748
+file,euckrfreq.py,13546
+file,eucjpprober.py,3749
+file,escsm.py,10510
+file,escprober.py,3950
+file,enums.py,1661
+file,cp949prober.py,1855
+file,compat.py,1200
+file,codingstatemachine.py,3590
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\chardet\cli,2748
+file,__init__.py,1
+file,chardetect.py,2747
+file,charsetprober.py,5110
+file,charsetgroupprober.py,3839
+file,chardistribution.py,9411
+file,big5prober.py,1757
+file,big5freq.py,31254
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\certifi,266931
+file,__main__.py,255
+file,__init__.py,62
+file,core.py,2840
+file,cacert.pem,263774
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\cachecontrol,41607
+file,__init__.py,302
+file,_cmd.py,1295
+file,wrapper.py,690
+file,serialize.py,7091
+file,heuristics.py,4070
+file,filewrapper.py,2533
+file,controller.py,14149
+file,compat.py,695
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_vendor\cachecontrol\caches,5095
+file,__init__.py,86
+file,redis_cache.py,856
+file,file_cache.py,4153
+file,cache.py,805
+file,adapter.py,4882
+file,appdirs.py,25907
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_internal,923451
+file,__init__.py,410
+file,wheel_builder.py,11740
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_internal\vcs,58969
+file,__init__.py,571
+file,versioncontrol.py,23086
+file,subversion.py,11876
+file,mercurial.py,5043
+file,git.py,15431
+file,bazaar.py,2962
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_internal\utils,122843
+file,__init__.py,0
+file,wheel.py,6290
+file,virtualenv.py,3564
+file,urls.py,1256
+file,unpacking.py,9032
+file,temp_dir.py,7950
+file,subprocess.py,10036
+file,setuptools_build.py,5047
+file,pkg_resources.py,1106
+file,parallel.py,3224
+file,packaging.py,2900
+file,models.py,1329
+file,misc.py,23315
+file,logging.py,12133
+file,inject_securetransport.py,810
+file,hashes.py,5167
+file,glibc.py,3170
+file,filetypes.py,761
+file,filesystem.py,6045
+file,entrypoints.py,1066
+file,encoding.py,1190
+file,distutils_args.py,1262
+file,direct_url_helpers.py,3935
+file,deprecation.py,3277
+file,datetime.py,255
+file,compatibility_tags.py,5589
+file,compat.py,1912
+file,appdirs.py,1222
+file,self_outdated_check.py,6484
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_internal\resolution,103576
+file,__init__.py,0
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_internal\resolution\resolvelib,85079
+file,__init__.py,0
+file,resolver.py,12085
+file,requirements.py,6047
+file,reporter.py,2765
+file,provider.py,7673
+file,found_candidates.py,5410
+file,factory.py,25446
+file,candidates.py,19976
+file,base.py,5677
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_internal\resolution\legacy,17934
+file,__init__.py,0
+file,resolver.py,17934
+file,base.py,563
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_internal\req,105954
+file,__init__.py,2983
+file,req_uninstall.py,23468
+file,req_tracker.py,4391
+file,req_set.py,7778
+file,req_install.py,33067
+file,req_file.py,18000
+file,constructors.py,16267
+file,pyproject.py,7061
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_internal\operations,83093
+file,__init__.py,0
+file,prepare.py,24850
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_internal\operations\install,35584
+file,__init__.py,51
+file,wheel.py,29960
+file,legacy.py,4177
+file,editable_legacy.py,1396
+file,freeze.py,9999
+file,check.py,5245
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_internal\operations\build,7415
+file,__init__.py,0
+file,wheel_legacy.py,3227
+file,wheel.py,1106
+file,metadata_legacy.py,1917
+file,metadata.py,1165
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_internal\network,50285
+file,__init__.py,50
+file,xmlrpc.py,1703
+file,utils.py,4072
+file,session.py,16247
+file,lazy_wheel.py,7924
+file,download.py,6243
+file,cache.py,2213
+file,auth.py,11833
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_internal\models,33718
+file,__init__.py,63
+file,wheel.py,3614
+file,target_python.py,3962
+file,selection_prefs.py,1947
+file,search_scope.py,4613
+file,scheme.py,770
+file,link.py,7472
+file,index.py,1092
+file,format_control.py,2629
+file,direct_url.py,6555
+file,candidate.py,1001
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_internal\metadata,10469
+file,__init__.py,1471
+file,pkg_resources.py,4248
+file,base.py,4750
+file,main.py,351
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_internal\locations,17475
+file,__init__.py,4826
+file,_sysconfig.py,5959
+file,_distutils.py,5212
+file,base.py,1478
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_internal\index,62073
+file,__init__.py,30
+file,sources.py,6557
+file,package_finder.py,37294
+file,collector.py,18192
+file,exceptions.py,13170
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_internal\distributions,7881
+file,__init__.py,864
+file,wheel.py,1205
+file,sdist.py,3900
+file,installed.py,667
+file,base.py,1245
+file,configuration.py,13725
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_internal\commands,103288
+file,__init__.py,3659
+file,wheel.py,6233
+file,uninstall.py,3216
+file,show.py,6866
+file,search.py,5598
+file,list.py,11331
+file,install.py,27135
+file,help.py,1149
+file,hash.py,1713
+file,freeze.py,3431
+file,download.py,4993
+file,debug.py,6806
+file,configuration.py,9206
+file,completion.py,2951
+file,check.py,1587
+file,cache.py,7414
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\venv\Lib\site-packages\pip\_internal\cli,91182
+file,__init__.py,132
+file,status_codes.py,116
+file,spinners.py,5347
+file,req_command.py,16884
+file,progress_bars.py,8576
+file,parser.py,11097
+file,main_parser.py,2642
+file,main.py,2483
+file,command_context.py,815
+file,cmdoptions.py,28999
+file,base_command.py,7741
+file,autocompletion.py,6350
+file,cache.py,9958
+file,build_env.py,9746
+file,py.typed,286
+file,distutils-precedence.pth,152
+file,.gitignore,42
+file,main.py,408
+file,HW8_1.py,2882
+file,folders.pickle,30493
+file,folders.json,206200
+file,folders.csv,645
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\.idea,5593
+file,workspace.xml,4546
+file,modules.xml,267
+file,misc.xml,195
+dir,d:\my doc\Обучение\Бизнесс аналитик\20_погружение в Python\Lesson8\HW08\.idea\inspectionProfiles,174
+file,profiles_settings.xml,174
+file,HW08.iml,361
+file,.gitignore,50
